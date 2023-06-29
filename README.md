@@ -1,3 +1,2 @@
-# Analysis
-doing a data analysis task
-doing sql, excel and python tasks
+# Data Analysis
+doing data analysis tasks using SQL and Python
